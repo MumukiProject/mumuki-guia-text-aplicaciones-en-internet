@@ -1,0 +1,1 @@
+Ups, se cayó el sistema! (Todo lo que hacemos puede fallar: el servidor o cliente podrían romperse, o la red está congestionada. Cualquiera de estas situaciones lleva al clásico “se cayó el sistema”) [podría dar lugar a fallos de seguridad, como veremos en breve] 

@@ -1,0 +1,1 @@
+Se basa en una arquitectura cliente-servidor: una computadora pide información, otra la responde. Ambas computadoras, que cumplen roles bien diferentes, corren cada una un programa especialmente diseñado: el cliente y el servidor, respectivamente.
