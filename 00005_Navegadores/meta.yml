@@ -1,0 +1,20 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Microsoft Edge
+  checked: true
+- value: Safari
+  checked: true
+- value: Skype
+  checked: false
+- value: Mozilla Firefox
+  checked: true
+- value: Microsoft Outlook
+  checked: false
+- value: Minecraft
+  checked: false
