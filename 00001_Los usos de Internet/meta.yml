@@ -1,0 +1,16 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Navegar en Internet
+  checked: true
+- value: Envío de emails
+  checked: true
+- value: Teleconferencias online
+  checked: true
+- value: Chatear
+  checked: true

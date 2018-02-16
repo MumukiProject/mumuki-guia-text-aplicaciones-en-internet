@@ -1,1 +1,0 @@
-¿Para qué sirve Internet? Para enviar correos electrónicos, para chatear, para navegar páginas. Cada una de estas cosas que podemos hacer es un servicio de internet. 

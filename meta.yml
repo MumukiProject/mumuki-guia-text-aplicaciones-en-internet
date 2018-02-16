@@ -3,7 +3,9 @@ name: Aplicaciones en Internet
 locale: es
 type: learning
 beta: false
-teacher_info: ''
+teacher_info: "¿Para qué sirve Internet? Para enviar correos electrónicos, para chatear,
+  para navegar páginas. Cada una de estas cosas que podemos hacer es un servicio de
+  internet. \n\n"
 language: text
 id_format: "%05d"
 order:
