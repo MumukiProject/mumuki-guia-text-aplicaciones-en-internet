@@ -1,8 +1,16 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: single_choice
+type: problem
 extra_visible: false
 manual_evaluation: false
-choices: []
+choices:
+- value: WAN
+  checked: false
+- value: LAN
+  checked: false
+- value: Dirección IP
+  checked: false
+- value: Nombre de dominio
+  checked: true
