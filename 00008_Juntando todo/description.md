@@ -1,2 +1,0 @@
-Entonces una aplicación en internet está conformada por múltiples programas, conectados a través de una red de redes. 
-[La cosa es más compleja: estos programas están desarrollados por múltiples personas, que no se conocen entre sí: por ejemplo quienes escribieron el código del browser son personas diferentes de las que escribieron el servidor. Ya hablaremos maś de ésto.
