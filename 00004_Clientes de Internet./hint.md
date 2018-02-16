@@ -1,0 +1,1 @@
+Quizás sea más fácil si pensás en una analogía real: los _clientes_ tienen necesidades y reciben _servicios_.
