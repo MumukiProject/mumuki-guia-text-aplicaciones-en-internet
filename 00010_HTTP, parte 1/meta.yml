@@ -2,8 +2,7 @@
 tags: []
 layout: input_bottom
 editor: code
-type: playground
+type: reading
 extra_visible: false
-language: javascript
 manual_evaluation: false
 choices: []
