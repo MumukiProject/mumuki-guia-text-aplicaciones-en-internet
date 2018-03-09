@@ -1,3 +1,2 @@
-- name: El segundo feriado no es el que pusiste
-    equal: Carnaval
-    ignore_case: true
+equal: Carnaval
+ignore_case: true
