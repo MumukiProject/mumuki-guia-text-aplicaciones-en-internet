@@ -1,0 +1,1 @@
+Posiblemente te pida corroborar que no sos un robot. Tenés que tocar en el cuadradito al lado de ese texto para que aparezca un tilde verde , y luego apretar en "Launch request" para generar el pedido.
