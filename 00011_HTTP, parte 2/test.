@@ -1,4 +1,4 @@
 - name: El segundo feriado no es el que pusiste
   postconditions:
-    match: Carnaval
+    expected: Carnaval
     ignore_case: true
