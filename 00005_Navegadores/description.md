@@ -6,7 +6,7 @@ Si estás usando una computadora de escritorio, probá hacer clic con el botón 
 
 
 <center>
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-aplicaciones-en-internet/master/images/ej6_2-01_1524152133236.png" alt="ej6_2-01_1524152133236.png" width="350px" height="auto">
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-aplicaciones-en-internet/master/images/ej6_2-01_1524152133236.png" alt="ej6_2-01_1524152133236.png" width="500px" height="auto">
 </center>
 
 La otra función es automatizar un montón de cosas que tendrías que tipear a mano para tener comunicación con el servidor al que te estás conectando, como información de desde donde te conectás, cumplimiento de protocolos, averiguación de dirección de IP asociada al nombre del dominio, etc.
