@@ -6,3 +6,4 @@ Ante cualquiera de estas fallas nos responden siempre con el conocido "Se cayó 
 
 Si te detenés a pensarlo, todo el fenómeno de la comunicación por redes es inmenso y sorprendente. :milky_way:
 
+> ¿Cuáles de los siguientes factores participan cuando buscás algo en Google?
