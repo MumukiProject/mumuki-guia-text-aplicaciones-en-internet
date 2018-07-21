@@ -14,3 +14,4 @@ choices:
   checked: false
 - value: Servidor de Google
   checked: true
+name: "¡Se cayó el sistema!"

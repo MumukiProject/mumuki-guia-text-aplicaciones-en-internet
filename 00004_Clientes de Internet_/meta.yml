@@ -14,3 +14,4 @@ choices:
   checked: false
 - value: Servidor consulta al cliente; servidor gestiona y envía datos.
   checked: false
+name: Clientes de Internet.
