@@ -1,1 +1,2 @@
-Posiblemente te pida corroborar que no sos un robot . Tenés que tocar en el cuadradito al lado de ese texto para que aparezca un tilde verde :white_check_mark:, y luego apretar en "Launch request" para generar el pedido.
+* En _request body_ no es necesario que escribas nada;
+* vas a tener que apretar el botón que diga **Send All** y luego fijarte en el apartado _body_ lo que devolvió la petición.
