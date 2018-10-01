@@ -1,2 +1,4 @@
-* En _request body_ no es necesario que escribas nada;
-* vas a tener que apretar el botón que diga **Send All** y luego fijarte en el apartado _body_ lo que devolvió la petición.
+* Debés seleccionar la opción GET;
+* vas a tener que hacer click en donde dice "I'm not a robot";
+* luego apretar el botón "SEND REQUEST";
+* por último seleccionar "Parsed" para que puedas leer bien los feriados.
