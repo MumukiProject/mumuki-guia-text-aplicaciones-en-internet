@@ -8,6 +8,6 @@ Un _servidor_ es un tipo de _nodo_ que se dedica exclusivamente al _almacenamien
 <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-aplicaciones-en-internet/master/images/ej3_2-01_1524151965671.png" alt="ej3_2-01_1524151965671.png" width="500px" height="auto">
 </center>
 
-Es posible que cualquiera de nosotros monte un servidor en su dispositivo; simplemente se corre una aplicación que queda funcionando como tal. Pero las empresas que operan en Internet suelen tener computadoras que funcionan exclusivamente como servidores, cuya forma y componentes están construidos para optimizar esa función. A estos se los llama **servidores dedicados**. :computer::trophy:
+Es posible que cualquiera de nosotros monte un servidor en su dispositivo; simplemente es necesaria la aplicación correcta :wink:. Pero las empresas que operan en Internet suelen tener computadoras que funcionan exclusivamente como servidores, cuya forma y componentes están construidos para optimizar esa función. A estos se los llama **servidores dedicados**. :computer::trophy:
 
 
