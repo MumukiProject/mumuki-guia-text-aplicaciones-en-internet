@@ -12,7 +12,7 @@ choices:
   checked: true
 - value: Google
   checked: false
-- value: Google chrome
+- value: Google Chrome
   checked: true
 - value: Skype
   checked: false
