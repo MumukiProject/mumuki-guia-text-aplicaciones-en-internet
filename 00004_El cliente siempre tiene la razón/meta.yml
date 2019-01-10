@@ -1,0 +1,19 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Un servidor respondiendo pedidos de un cliente
+  checked: false
+- value: Un servidor respondiendo pedidos de múltiples clientes
+  checked: false
+- value: Muchos servidores respondiendo pedidos de un solo cliente
+  checked: false
+- value: Todos los anteriores
+  checked: true
+- value: Ninguno de los anteriores
+  checked: false
+name: El cliente siempre tiene la razón
