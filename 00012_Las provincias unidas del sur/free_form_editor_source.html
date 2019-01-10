@@ -1,0 +1,41 @@
+<button type="button" class="btn btn-info" onclick="getProvinces()">Hacer GET al recurso</button>
+ <div class="form-horizontal">
+   <div class="form-group">
+     <textarea style="height: 200px;" id="provinces" name="provinces" type="text" class="read-only-editor form-control mu-free-form-input">Tocá el botón para ver las provincias</textarea>
+   </div>
+   <div class="form-group">
+     <div class="input-group">
+       <div class="input-group-addon">Provincia</div>
+       <input id="province" name="province" type="text" class="form-control mu-free-form-input" placeholder="¿Cuál es la provincia con id igual a 50?">
+     </div>
+   </div>
+ </div>
+
+<style>
+ .CodeMirror { height: auto; }
+ .CodeMirror-scroll { max-height: 200px; }
+</style>
+
+<script>
+mumuki.onInputsReady('.CodeMirror', () => {
+  var editor = $('.CodeMirror')[0].CodeMirror;
+  let json = $('#solution_content').val();
+  
+  if(json){
+    let values = JSON.parse(json);
+  
+    editor.setValue(values.provinces);
+  }
+  
+  editor.setOption('mode', 'application/json');
+})
+
+function getProvinces() {
+ $.get("https://apis.datos.gob.ar/georef/api/provincias", function(data) {
+   var provinces = JSON.stringify(data.provincias, null, 2);
+   $('.CodeMirror')[0].CodeMirror.setValue(provinces);
+   $("#provinces").val(provinces);
+   $('#provinces.mu-free-form-input').change();
+ });
+}
+</script>

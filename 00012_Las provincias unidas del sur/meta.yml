@@ -1,9 +1,9 @@
 ---
 tags: []
-layout: input_right
-editor: text
+layout: input_bottom
+editor: free_form
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices: []
-name: HTTP, parte 2
+name: Las provincias unidas del sur
