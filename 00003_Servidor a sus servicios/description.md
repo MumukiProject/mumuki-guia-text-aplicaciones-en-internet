@@ -1,13 +1,3 @@
-Los _servicios en Internet_ no están simplemente flotando a la deriva, sino que son ofrecidos por los **servidores**.
+Las distintas prestaciones que nos da Internet no están simplemente flotando en el aire :dash:, sino que son ofrecidas por los **servidores**. ¿Y esos quiénes son? Un _servidor_ es un programa que sirve como punto de consumo de datos. En criollo, sabe responder a solicitudes de información realizadas por otros programas.
 
-¿Y esos quiénes son?
-<br>
-Un _servidor_ es un tipo de _nodo_ que se dedica exclusivamente al _almacenamiento_ y _distribución de datos_. Técnicamente, es una **aplicación** que corre en una computadora con instrucciones de cómo responder pedidos de otros _nodos_. Y la forma en la que lo haga determinará si sus **servicios** son del tipo web, chat, mail, etc.
-
-<center>
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-aplicaciones-en-internet/master/images/ej3_2-01_1524151965671.png" alt="ej3_2-01_1524151965671.png" width="500px" height="auto">
-</center>
-
-Es posible que cualquiera de nosotros monte un servidor en su dispositivo; simplemente es necesaria la aplicación que funcione como tal. Pero las empresas que operan en Internet suelen tener computadoras que funcionan exclusivamente como servidores, cuya forma y componentes están construidos para optimizar esa función. A estos se los llama **servidores dedicados**. :computer::trophy:
-
-
+> ¿Cómo crees que deben ser las computadoras donde corren estos programas?
