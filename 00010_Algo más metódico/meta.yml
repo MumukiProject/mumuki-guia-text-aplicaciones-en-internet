@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: GET
+  checked: true
+- value: POST
+  checked: false
+- value: PUT
+  checked: false
+- value: DELETE
+  checked: false
+name: Algo más metódico

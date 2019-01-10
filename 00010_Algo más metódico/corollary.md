@@ -1,0 +1,1 @@
+¡Correcto! al ingresar una URL en nuestro navegador estamos pidiendo información, por eso mismo es que en realidad estamos realizando un GET a esa dirección.
