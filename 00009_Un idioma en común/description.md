@@ -1,3 +1,0 @@
-Sabemos que los **servidores** pueden estar desarrollados en varias tecnologías; esto ocurre también con las _bases de datos_, los _clientes_ y las mismas _aplicaciones web_. Si cada uno de lo actores en un proceso están escritos con un código diferente ¿Cómo es que se entienden entre sí? :fearful:
-
-Al momento de envío y recepción de datos, sin importar la tecnología, todos hablan el mismo "idioma": el **Protocolo de Transferencia de Hipertexto** (en ingles _HyperText Transfer Protocol_), mundialmente conocido como **HTTP**. Es muy simple y consta de 4 comandos principales, todos ellos vinculados a la manipulación de datos.

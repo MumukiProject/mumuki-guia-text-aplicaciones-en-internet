@@ -1,0 +1,1 @@
+Algunos recursos son más sensibles que otros, y con esto no nos referimos a que se emocionan más fácilmente :cry:, sino que requieren mayor protección. Para ello existe el protocolo HTTPS, una extensión de HTTP que tiene como objetivo que la comunicación sea más SSSegura (de ahí viene la S :wink:).

@@ -1,0 +1,19 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: https
+  checked: false
+- value: github.com
+  checked: false
+- value: "/mumuki"
+  checked: false
+- value: "/mumuki/mumuki-laboratory/blob/master/public/logo-alt-large.png"
+  checked: true
+- value: https://github.com/mumuki/mumuki-laboratory/blob/master/public/logo-alt-large.png
+  checked: false
+name: Identificación por favor
