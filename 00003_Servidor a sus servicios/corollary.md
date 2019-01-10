@@ -1,0 +1,1 @@
+Es posible que cualquier persona tenga trabajando un servidor en su dispositivo. Simplemente es necesario tener el programa que funcione como tal :sunglasses:.  Ruby <i class="da da-ruby"></i>, JavaScript <i class="da da-javascript"></i> y Java <i class="da da-java"></i> son algunos de los lenguajes que pueden usarse para programar un servidor.

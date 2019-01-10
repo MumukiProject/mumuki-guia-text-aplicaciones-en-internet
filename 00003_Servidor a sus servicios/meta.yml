@@ -1,9 +1,15 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: multiple_choice
+type: problem
 extra_visible: false
 manual_evaluation: false
-choices: []
+choices:
+- value: Computadoras gigantes que ocupan edificios enteros
+  checked: false
+- value: Computadoras comunes como las que se pueden encontrar en una casa
+  checked: true
+- value: Mini computadoras que entran en cualquier bolsillo
+  checked: false
 name: Servidor a sus servicios
