@@ -1,17 +1,19 @@
 ---
 tags: []
 layout: input_bottom
-editor: multiple_choice
+editor: single_choice
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
-- value: Navegar en Internet
-  checked: true
-- value: Envío de emails
-  checked: true
-- value: Teleconferencias online
-  checked: true
+- value: Navegar por páginas web
+  checked: false
+- value: Enviar correos electrónicos (_emails_)
+  checked: false
+- value: Realizar videollamadas
+  checked: false
 - value: Chatear
+  checked: false
+- value: Todas las anteriores
   checked: true
 name: Los usos de Internet
