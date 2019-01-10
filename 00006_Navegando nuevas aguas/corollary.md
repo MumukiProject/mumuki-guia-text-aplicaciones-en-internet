@@ -1,3 +1,3 @@
-Cada vez que alguien quiere acceder al contenido de un sitio web a través de un navegador se lo tiene que pedir al servidor web en donde está alojado el sitio.
+Cada vez que alguien quiere acceder al contenido de un sitio web a través de un navegador se lo tiene que pedir al servidor web.
 
 Los navegadores tienen otras funciones aparte del [renderizado](https://es.wikipedia.org/wiki/Renderizaci%C3%B3n) de las páginas. Por ejemplo: también se comunican con el _sistema de nombres de dominio_ al intentar ingresar a un sitio para obtener su dirección IP o proveen información sobre nuestra ubicación siempre que se lo permitamos.
