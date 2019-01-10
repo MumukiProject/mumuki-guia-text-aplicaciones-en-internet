@@ -1,4 +1,4 @@
-Copyright Rodrigo Menna and contributors
+Copyright Gustavo Truco y Rodrigo Menna and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history

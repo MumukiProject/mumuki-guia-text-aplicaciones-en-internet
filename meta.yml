@@ -3,9 +3,11 @@ name: Internet
 locale: es
 type: learning
 beta: false
-teacher_info: "¿Para qué sirve Internet? Para enviar correos electrónicos, para chatear,
-  para navegar páginas. Cada una de estas cosas que podemos hacer es un servicio de
-  internet. \n\n"
+teacher_info: "Los **clientes** se comunican a través de métodos **HTTP** con **servidores**
+  y solicitan información que estos últimos pueden buscar en una **base de datos**.\n\nSi
+  solamente uno de todos los actores no funcionara bien, lo más probable es que todo
+  este **sistema** falle :boom:. Y eso sin contar con el soporte físico, aparatos
+  y cables que tienen que estar funcionando y en condiciones. :scream: \n\n"
 language: text
 id_format: "%05d"
 order:
