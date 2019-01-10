@@ -1,0 +1,1 @@
+¡Excelente! Es importante que sepas que el contenido hipertextual no es necesariamente contenido multimedia como fotos :camera: o videos :video_camera:; aunque tranquilamente puede serlo. :wink:
