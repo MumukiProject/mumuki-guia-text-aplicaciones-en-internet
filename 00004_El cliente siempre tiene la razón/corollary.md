@@ -1,1 +1,1 @@
- ¡Muy bien! Un mismo servidor puede responder a pedidos de múltiples clientes y un mismo cliente puede realizar peticiones a más de un servidor. 
+¡Muy bien! Un mismo servidor puede responder a pedidos de múltiples clientes y un mismo cliente puede realizar peticiones a más de un servidor. 
