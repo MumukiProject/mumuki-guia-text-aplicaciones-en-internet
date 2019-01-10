@@ -1,0 +1,1 @@
+¡Exacto! tanto buscar una persona en una red social :bust_in_silhouette: como entrar a un disco en espótifai :cd: son comunicaciones que utilizan HTTP, porque ambas acciones implican una solicitud y transferencia de información entre un cliente y un servidor.

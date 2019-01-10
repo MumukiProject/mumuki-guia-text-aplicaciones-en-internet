@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: El envío de una carta de un país a otro
+  checked: false
+- value: El ingreso a un álbum en la página de espótifai
+  checked: true
+- value: El envío de un mensaje de texto de un celular a otro
+  checked: false
+- value: La búsqueda de una persona en una red social
+  checked: true
+name: Ceremonial y protocolo
