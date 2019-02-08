@@ -1,4 +1,4 @@
-No tendría sentido que los servidores sepan responder solicitudes si nadie las hiciese; ahí es cuando aparecen los **clientes** :sunglasses:. Este modelo que relaciona a programas que proveen información con programas que la consumen es lo que se conoce como **arquitectura cliente-servidor**. 
+No tendría sentido que los servidores sepan responder solicitudes si nadie las hiciese; ahí es cuando aparecen los **clientes** :sunglasses:. El modelo que relaciona a programas que proveen información con programas que la consumen es lo que se conoce como **arquitectura cliente-servidor**. 
 
 En la mayoría de los casos cliente y servidor están en distintas computadoras, aunque hay casos en los que no.
 

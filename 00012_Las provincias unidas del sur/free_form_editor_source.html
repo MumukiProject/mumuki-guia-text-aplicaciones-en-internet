@@ -32,6 +32,9 @@ mumuki.onInputsReady('.CodeMirror', () => {
 
 function getProvinces() {
  $.get("https://apis.datos.gob.ar/georef/api/provincias", function(data) {
+   data.provincias.sort(function(a, b) {
+     return a.id - b.id;
+   });
    var provinces = JSON.stringify(data.provincias, null, 2);
    $('.CodeMirror')[0].CodeMirror.setValue(provinces);
    $("#provinces").val(provinces);

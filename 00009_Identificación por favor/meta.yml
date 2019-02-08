@@ -6,14 +6,19 @@ type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
-- value: https
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`https`"
   checked: false
-- value: github.com
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`github.com`"
   checked: false
-- value: "/mumuki"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`/mumuki`"
   checked: false
-- value: "/mumuki/mumuki-laboratory/blob/master/public/logo-alt-large.png"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`/mumuki/mumuki-laboratory/blob/master/public/logo-alt-large.png`"
   checked: true
-- value: https://github.com/mumuki/mumuki-laboratory/blob/master/public/logo-alt-large.png
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`https://github.com/mumuki/mumuki-laboratory/blob/master/public/logo-alt-large.png`"
   checked: false
 name: Identificación por favor

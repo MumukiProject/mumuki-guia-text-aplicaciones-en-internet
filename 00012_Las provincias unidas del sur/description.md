@@ -1,3 +1,3 @@
-Para finalizar esta lección y confirmar que quedó todo claro vamos a hacer un GET que nos permita obterner otro recurso, las provincias argentinas. 
+¡Ya estamos por terminar! :muscle: Veamos si quedó todo claro haciendo un GET a `https://apis.datos.gob.ar/georef/api/provincias` para obtener otro recurso, las provincias argentinas. 
 
-> Tocá el botón y una vez que tengas las provincias completá cuál es la que tiene id igual a 50.
+> Tocá el botón **"Hacer GET al recurso"** y una vez que tengas las provincias completá cuál es la que tiene id igual a 50.

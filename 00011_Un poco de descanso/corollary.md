@@ -1,1 +1,1 @@
-Como dijimos se puede utilizar GET para obtener distintos recursos. En este caso (y en muchos otros) la respuesta vino en un formato llamado JSON, cuya sintaxis probablemente te suene si alguna vez programaste en JavaScript o Ruby.
+Como dijimos se puede utilizar GET para obtener distintos recursos. En este caso (y en muchos otros) la respuesta vino en un formato llamado JSON, cuya sintaxis probablemente te suene si alguna vez programaste en JavaScript o Ruby. :wink:

@@ -6,10 +6,13 @@ type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
-- value: Computadoras gigantes que ocupan edificios enteros
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Computadoras gigantes que ocupan edificios enteros
   checked: false
-- value: Computadoras comunes como las que se pueden encontrar en una casa
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Computadoras comunes como las que se pueden encontrar en una casa
   checked: true
-- value: Mini computadoras que entran en cualquier bolsillo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Mini computadoras que entran en cualquier bolsillo
   checked: false
 name: Servidor a sus servicios
