@@ -36,7 +36,7 @@ function getProvinces() {
      return a.id - b.id;
    });
    var provinces = JSON.stringify(data.provincias, null, 2);
-   $('.CodeMirror')[0].CodeMirror.setValue(provinces);
+   //$('.CodeMirror')[0].CodeMirror.setValue(provinces);
    $("#provinces").val(provinces);
    $('#provinces.mu-free-form-input').change();
  });
